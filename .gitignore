@@ -1,0 +1,10 @@
+*.caffemodel
+*.tsv
+/snap
+.idea
+__pycache__
+
+*.pth
+.ipynb_checkpoints
+~WRL0207.tmp
+/src/tasks/snap/*.pth
